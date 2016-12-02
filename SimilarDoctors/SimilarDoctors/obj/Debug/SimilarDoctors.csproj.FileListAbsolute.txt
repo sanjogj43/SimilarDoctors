@@ -1,0 +1,6 @@
+C:\Users\sjadhav\Desktop\IMP_New\Projects\SimilarDoctors\SimilarDoctors\bin\Debug\SimilarDoctors.exe.config
+C:\Users\sjadhav\Desktop\IMP_New\Projects\SimilarDoctors\SimilarDoctors\bin\Debug\SimilarDoctors.exe
+C:\Users\sjadhav\Desktop\IMP_New\Projects\SimilarDoctors\SimilarDoctors\bin\Debug\SimilarDoctors.pdb
+C:\Users\sjadhav\Desktop\IMP_New\Projects\SimilarDoctors\SimilarDoctors\obj\Debug\SimilarDoctors.csprojResolveAssemblyReference.cache
+C:\Users\sjadhav\Desktop\IMP_New\Projects\SimilarDoctors\SimilarDoctors\obj\Debug\SimilarDoctors.exe
+C:\Users\sjadhav\Desktop\IMP_New\Projects\SimilarDoctors\SimilarDoctors\obj\Debug\SimilarDoctors.pdb
